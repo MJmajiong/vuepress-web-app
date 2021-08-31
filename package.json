@@ -11,10 +11,6 @@
     "prettier": "prettier --write '**/*.md'",
     "prettier-watch": "onchange '**/*.md' -- prettier --write {{changed}}"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nicejade/vuepress-web-app"
-  },
   "dependencies": {
     "autosize": "^4.0.2",
     "axios": "^0.21.1",
