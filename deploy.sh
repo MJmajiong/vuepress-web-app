@@ -10,7 +10,7 @@ yarn run build
 cd ./docs/dist
 
 # 如果是发布到自定义域名
-echo 'mjmajiong.site.cn' > CNAME
+# echo 'mjmajiong.site.cn' > CNAME
 
 git init
 git add -A
