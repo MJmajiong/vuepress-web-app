@@ -19,6 +19,8 @@ git commit -m 'deploy update 🎉'
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
+git remote set-url origin https://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@github.com/MJmajiong/vuepress-web-app.git
+
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:MJmajiong/vuepress-web-app.git master:master
+git push 
 cd -
