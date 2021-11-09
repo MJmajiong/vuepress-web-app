@@ -22,5 +22,3 @@ contacts:
     type: douban
 ---
 
-<Contact />
-
